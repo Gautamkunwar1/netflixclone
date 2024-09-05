@@ -1,1 +1,1 @@
-# netflixclone
+A Netflix Clone built using HTML and CSS, replicating the user interface of Netflix. This project showcases a responsive design, featuring a homepage with movie posters, hero sections, and navigation bar similar to Netflix's UI.
